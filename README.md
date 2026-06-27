@@ -1,4 +1,4 @@
-# 📚 BookScraper INR
+# 📚 Web Scraper
 
 A high-throughput web scraper that crawls all 50 pages of [books.toscrape.com](https://books.toscrape.com), extracts pricing and rating data, converts GBP → INR on the fly, and ships it straight to CSV.
 
